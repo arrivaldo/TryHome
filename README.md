@@ -2,7 +2,10 @@
 
 **TryHome** is an internal store management system developed in C designed to streamline the management of store inventory, sales, and customer interactions. This system provides a user-friendly interface for employees to handle day-to-day store operations efficiently.
 
-![TryHome Screenshot](./assets/tryhome-screenshot.png)
+![TryHome Screenshot](./1.png)
+![TryHome Screenshot](./2.png)
+![TryHome Screenshot](./3.png)
+
 
 ## Table of Contents
 - [Features](#features)
